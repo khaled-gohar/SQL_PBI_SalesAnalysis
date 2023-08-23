@@ -12,7 +12,9 @@ sales analysis project using SQL and Power BI
 
 <h3>Business Problem</h3>
 <p>The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
-Create a Power BI dashboard that allows to filter data for each customer and  product, show graphs and KPIS comparing against budget:</p>
+  
+  <p>Create a Power BI dashboard that allows to filter data for each customer and  product, show graphs and KPIS comparing against budget</p>
+</p>
 
 
 <h3>Data Collection & Table Structures</h3>
