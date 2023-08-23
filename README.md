@@ -1,4 +1,4 @@
-# Sales_SQL_PBI_Analysis
+# Sales_SQL_Power BI_Analysis
 sales analysis project using SQL and Power BI
 
 <h3>Tools Used</h3>
