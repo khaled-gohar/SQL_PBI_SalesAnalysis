@@ -19,11 +19,11 @@ sales analysis project using SQL and Power BI
 
 <h3>Data Collection & Table Structures</h3>
 <p>
-To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL. One data source (sales budgets) was provided in Excel format and was connected to the data model in a later step of the process. Below are the SQL statements for cleansing and transforming necessary data.
+To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL and the data has been cleansed and transformed using SQL. One data source (sales budgets) was provided in Excel format and was connected to the data model in a later step of the process. 
 </p>
 
 <h3>Data Model</h3>
-<P>Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI. This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.</P>
+<P>Below is a screenshot of the data model in Power BI. This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.</P>
 
 
 ![Model](https://github.com/khaled-gohar/SQL_PBI_SalesAnalysis/assets/133038582/826a2472-ad14-4784-bf44-873557c033f5)
